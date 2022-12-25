@@ -1,6 +1,6 @@
 
 // Array subset of another array
-
+// working fine for both length of (arr1>arr2  or arr2>arr1)
 
 
 
